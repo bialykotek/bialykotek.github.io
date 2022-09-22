@@ -3,12 +3,12 @@
 ### BiałyKot 
 
 `Social Media:`
-[Twitch][1], [Youtube][2]
+[Twitch][1], [Youtube][2].
 
 ### Xherin
 
 `Social Media:`
-[Twitch][3], [Youtube][4], [DeviantArt][5]
+[Twitch][3], [Youtube][4], [DeviantArt][5].
 
 
 [1]: https://www.twitch.tv/bialykot_
